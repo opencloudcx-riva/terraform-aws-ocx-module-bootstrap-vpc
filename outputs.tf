@@ -1,3 +1,5 @@
+# Developed by RIVA Solutions Inc 2022.  Authorized Use Only
+
 output "vpc_id" {
   value = module.vpc.vpc_id
 }
